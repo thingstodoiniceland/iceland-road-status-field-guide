@@ -1,0 +1,11 @@
+site_name: Iceland Road Status Field Guide
+site_description: A plain-language field guide for checking one Iceland road segment before committing to a day plan.
+site_author: Things to Do in Iceland
+repo_url: https://github.com/thingstodoiniceland/iceland-road-status-field-guide
+repo_name: thingstodoiniceland/iceland-road-status-field-guide
+
+theme:
+  name: readthedocs
+
+nav:
+  - Field guide: index.md
